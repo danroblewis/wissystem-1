@@ -1,0 +1,12 @@
+{
+    "name": "wissystem_vca1",
+    "version": "0.0.1",
+    "author": "",
+    "homepage": "",
+    "commands": {},
+    "dependencies": {
+    	"eurorack-parts": "0.0.1",
+    	"kicad_lib_symbols_power": "0.0.6",
+    	"kpm-jlcpcb-basic": "0.0.7"
+    }
+}
