@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+R_Potentiometer_Trim_US,"RV2,RV3",Potentiometer_Bourns_TC33X_Vertical,C128545
+560k,"R10,R4",R_0603_1608Metric,C23203
+100k,"R3,R9",R_0402_1005Metric,C25741
+10k,"R12,R13,R5,R6",R_0402_1005Metric,C25744
+56k,"R1,R11,R14,R2,R7,R8",R_0402_1005Metric,C25796
+EuroPower16,J1,IDC-Header_2x08_P2.54mm_Vertical_SMD,C383608
+XL13700,U2,SOP-16_3.9x9.9mm_P1.27mm,C521166
+TL072CDT,"U1,U3",SOIC-8_3.9x4.9mm_P1.27mm,C6961
+AlphaPot,RV4,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,
+AlphaPot,RV1,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,

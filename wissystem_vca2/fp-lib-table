@@ -1,0 +1,1 @@
+(fp_lib_table (version 7) (lib (name "EuroRackTools") (type "KiCad") (uri "${KIPRJMOD}/kpm_modules/eurorack-parts@0.0.6/footprints/EuroRackTools.pretty") (options "") (descr "")) (lib (name "kpm-jlcpcb-basic") (type "KiCad") (uri "${KIPRJMOD}/kpm_modules/kpm-jlcpcb-basic@0.0.11/footprints/kpm-jlcpcb-basic.pretty") (options "") (descr "")))

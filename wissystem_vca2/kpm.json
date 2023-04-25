@@ -1,0 +1,11 @@
+{
+    "name": "wissystem_vca2",
+    "version": "0.0.1",
+    "author": "",
+    "homepage": "",
+    "commands": {},
+    "dependencies": {
+	"kpm-jlcpcb-basic": "0.0.11",
+	"eurorack-parts": "0.0.6"
+    }
+}

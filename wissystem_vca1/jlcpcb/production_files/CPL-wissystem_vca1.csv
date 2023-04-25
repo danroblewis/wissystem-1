@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,EuroPower16,IDC-Header_2x08_P2.54mm_Vertical_SMD,35.4076,-88.0264,90.0,top
+R1,56k,R_0402_1005Metric,32.4612,-77.4172,-90.0,top
+R2,56k,R_0402_1005Metric,33.4264,-77.4172,90.0,top
+R3,100k,R_0402_1005Metric,31.3944,-65.9912,90.0,top
+R4,560k,R_0603_1608Metric,48.1706,-128.7272,180.0,top
+R5,10k,R_0402_1005Metric,32.4612,-79.2988,90.0,top
+R6,10k,R_0402_1005Metric,27.5356,-107.0864,0.0,top
+R7,56k,R_0402_1005Metric,27.5336,-108.0516,180.0,top
+R8,56k,R_0402_1005Metric,37.3888,-42.42,-90.0,top
+R9,100k,R_0402_1005Metric,31.3436,-56.5384,-90.0,top
+R10,560k,R_0603_1608Metric,48.069,-108.0516,180.0,top
+R11,56k,R_0402_1005Metric,38.354,-42.42,90.0,top
+R12,10k,R_0402_1005Metric,38.354,-40.5384,-90.0,top
+R13,10k,R_0402_1005Metric,27.5316,-127.7112,0.0,top
+R14,56k,R_0402_1005Metric,27.5356,-128.6764,180.0,top
+RV1,AlphaPot,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,40.9448,-77.2514,270.0,bottom
+RV2,R_Potentiometer_Trim_US,Potentiometer_Bourns_TC33X_Vertical,26.0604,-67.9472,-90.0,top
+RV3,R_Potentiometer_Trim_US,Potentiometer_Bourns_TC33X_Vertical,26.0604,-55.5244,-90.0,top
+RV4,AlphaPot,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,29.424,-44.1606,90.0,bottom
+U1,TL072CDT,SOIC-8_3.9x4.9mm_P1.27mm,28.2448,-75.9968,90.0,top
+U2,XL13700,SOP-16_3.9x9.9mm_P1.27mm,34.544,-61.2648,90.0,top
+U3,TL072CDT,SOIC-8_3.9x4.9mm_P1.27mm,42.5704,-43.7388,-90.0,top

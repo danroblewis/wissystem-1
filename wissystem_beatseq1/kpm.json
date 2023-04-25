@@ -1,0 +1,11 @@
+{
+    "name": "wissystem_beatseq1",
+    "version": "0.0.1",
+    "author": "danroblewis",
+    "homepage": "",
+    "commands": {},
+    "dependencies": {
+	"eurorack-parts": "0.0.7",
+	"kpm-jlcpcb-basic": "0.0.12"
+    }
+}

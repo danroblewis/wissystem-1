@@ -1,0 +1,11 @@
+{
+    "name": "wissystem_linvco1",
+    "version": "0.0.1",
+    "author": "",
+    "homepage": "",
+    "commands": {},
+    "dependencies": {
+    	"eurorack-parts": "0.0.7",
+    	"kpm-jlcpcb-basic": "0.0.12"
+    }
+}
