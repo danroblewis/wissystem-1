@@ -1,0 +1,197 @@
+47107405483853
+EuroRackTools
+D_SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+EuroRackTools
+IDC-Header_2x08_P2.54mm_Vertical_SMD
+SMD IDC box header, 2x08, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://www.tme.eu/Document/4baa0e952ce73e37bc68cf730b541507/T821M114A1S100CEU-B.pdf
+SMD vertical IDC box header  2x08 2.54mm double row
+0
+16
+16
+EuroRackTools
+Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles
+TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)
+WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu
+0
+3
+3
+EuroRackTools
+PinHeader_1x07_P2.54mm_Vertical
+Through hole straight pin header, 1x07, 2.54mm pitch, single row
+Through hole pin header THT 1x07 2.54mm single row
+0
+7
+7
+EuroRackTools
+PinHeader_2x02_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x02, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x02 2.54mm double row
+0
+4
+4
+EuroRackTools
+PinHeader_2x03_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x03, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x03 2.54mm double row
+0
+6
+6
+EuroRackTools
+PinHeader_2x05_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x05, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x05 2.54mm double row
+0
+10
+10
+EuroRackTools
+PinHeader_2x07_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x07, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x07 2.54mm double row
+0
+14
+14
+EuroRackTools
+PinHeader_2x08_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x08, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x08 2.54mm double row
+0
+16
+16
+EuroRackTools
+PinHeader_2x12_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x12, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x12 2.54mm double row
+0
+24
+24
+EuroRackTools
+PinHeader_2x17_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x17, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x17 2.54mm double row
+0
+34
+34
+EuroRackTools
+PinHeader_2x20_P2.54mm_Horizontal
+Through hole angled pin header, 2x20, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x20 2.54mm double row
+0
+41
+40
+EuroRackTools
+PinHeader_2x20_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x20, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x20 2.54mm double row
+0
+40
+40
+EuroRackTools
+PinSocket_2x20_P2.54mm_Vertical_SMD
+surface-mounted straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Surface mounted socket strip SMD 2x20 2.54mm double row
+0
+40
+40
+EuroRackTools
+Potentiometer_Alpha_RD901F-40-00D_Single_Vertical
+Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
+potentiometer vertical 9mm single
+0
+5
+3
+EuroRackTools
+Potentiometer_Bourns_TC33X_Vertical
+Potentiometer, Bourns, TC33X, Vertical, https://www.bourns.com/pdfs/TC33.pdf
+Potentiometer Bourns TC33X Vertical
+0
+3
+3
+EuroRackTools
+SOIC-14_3.9x8.7mm_P1.27mm
+SOIC, 14 Pin (JEDEC MS-012AB, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+14
+14
+EuroRackTools
+SOIC-16_3.9x9.9mm_P1.27mm
+SOIC, 16 Pin (JEDEC MS-012AC, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+16
+16
+EuroRackTools
+SOP-16_3.9x9.9mm_P1.27mm
+SOP, 16 Pin (https://www.diodes.com/assets/Datasheets/PAM8403.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+16
+16
+EuroRackTools
+SOP-16_4.4x10.4mm_P1.27mm
+16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf
+SOP 1.27
+0
+16
+16
+EuroRackTools
+SOT-23-3
+SOT, 3 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178D.PDF inferred 3-pin variant), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+EuroRackTools
+SOT-23-3_npn
+SOT, 3 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178D.PDF inferred 3-pin variant), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+EuroRackTools
+SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+6
+6
+EuroRackTools
+SOT-363_SC-70-6_90deg
+SOT-363_SC-70-6_90deg
+SOT-363_SC-70-6_90deg
+0
+6
+6
+EuroRackTools
+SOT-363_SC-70-6_180deg
+SOT-363_SC-70-6_180deg
+SOT-363_SC-70-6_180deg
+0
+6
+6
+EuroRackTools
+SOT-363_SC-70-6_270deg
+SOT-363_SC-70-6_270deg
+SOT-363_SC-70-6_270deg
+0
+6
+6
+EuroRackTools
+SW_SPST_PTS645
+C&K Components SPST SMD PTS645 Series 6mm Tact Switch
+SPST Button Switch
+0
+4
+2
+EuroRackTools
+TQFP-32_7x7mm_P0.8mm
+32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+32
+32

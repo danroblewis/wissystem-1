@@ -5,7 +5,7 @@
     "homepage": "",
     "commands": {},
     "dependencies": {
-	"eurorack-parts": "0.0.7",
-	"kpm-jlcpcb-basic": "0.0.12"
+	"eurorack-parts": "0.0.8",
+	"kpm-jlcpcb-basic": "0.0.13"
     }
 }
